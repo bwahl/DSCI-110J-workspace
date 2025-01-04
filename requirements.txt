@@ -2,7 +2,7 @@ ipywidgets==8.1.5
 # matplotlib==3.8.4
 # pandas==2.2.3
 # torch==2.3.0
-torchvision==0.18.0
+# torchvision==0.18.0
 tqdm==4.67.1
 datascience==0.17.6
 ipympl==0.9.6
