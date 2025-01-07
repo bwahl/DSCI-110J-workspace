@@ -1,0 +1,17 @@
+0,NameError,name 'dollar_bet_on' is not defined,0,,2024-02-29 10:59:12.332461
+1,NameError,name 'dollar_bet_on' is not defined,0,,2024-02-29 10:59:20.659456
+2,AttributeError,'ellipsis' object has no attribute 'apply',0,,2024-02-29 11:01:47.976520
+3,AttributeError,'ellipsis' object has no attribute 'apply',0,,2024-02-29 11:02:03.007689
+4,AttributeError,'ellipsis' object has no attribute 'apply',0,,2024-02-29 11:02:18.898334
+5,TypeError,'ellipsis' object is not callable,0,,2024-02-29 11:05:27.224194
+6,NameError,name 'wheels' is not defined,0,,2024-02-29 15:12:19.381830
+7,SyntaxError,"invalid syntax (2005186970.py, line 1)",0,,2024-02-29 15:44:09.989600
+8,SyntaxError,"invalid syntax (2954392024.py, line 1)",0,,2024-02-29 15:47:31.060617
+9,NameError,name 'sample' is not defined,0,,2024-02-29 15:53:05.248969
+10,TypeError,sample_proportions() missing 1 required positional argument: 'probabilities',0,,2024-02-29 15:53:40.446779
+11,TypeError,'function' object is not subscriptable,0,,2024-02-29 16:05:53.824863
+12,TypeError,only size-1 arrays can be converted to Python scalars,0,,2024-02-29 16:58:08.518197
+13,TypeError,only size-1 arrays can be converted to Python scalars,0,,2024-02-29 16:58:39.118543
+14,NameError,name 'sample_proprtions' is not defined,0,,2024-02-29 17:03:46.103238
+15,NameError,name 'sample_proprtions' is not defined,0,,2024-02-29 17:04:42.402215
+16,ValueError,"The column ""Winnings: Split"" is not in the table. The table contains these columns: Pocket, Color, Winnings: Red",0,,2024-03-13 13:21:07.921880
