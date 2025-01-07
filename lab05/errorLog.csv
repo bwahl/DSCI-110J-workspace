@@ -1,0 +1,13 @@
+0,SyntaxError,"unterminated string literal (detected at line 3) (1149919619.py, line 3)",0,,2024-02-09 16:53:23.858033
+1,SyntaxError,"'(' was never closed (1570105048.py, line 2)",0,,2024-02-09 16:53:35.774109
+2,FileNotFoundError,[Errno 2] No such file or directory: 'Austen_PrideAndPrejudice.txt',0,,2024-02-09 16:59:52.883687
+3,NameError,name 'longer_than_5' is not defined,0,,2024-02-09 17:00:55.929016
+4,NameError,name 'longer_than_5' is not defined,0,,2024-02-09 17:01:56.873033
+5,TypeError,'int' object is not iterable,0,,2024-02-09 17:06:24.362975
+6,ValueError,"The column ""Nacho Type"" is not in the table. The table contains these columns: Nachos",0,,2024-02-23 18:20:45.136955
+7,ValueError,<function nacho_reaction at 0x000001C00DB86A20> is not a label or index,0,,2024-02-23 18:21:01.142029
+8,AttributeError,module 'numpy' has no attribute 'apply',0,,2024-02-23 18:22:56.833256
+9,AttributeError,module 'numpy' has no attribute 'apply',0,,2024-02-23 18:23:24.770696
+10,ValueError,<function nacho_reaction at 0x000001C00DB86A20> is not a label or index,0,,2024-02-23 18:24:51.531606
+11,SyntaxError,"unmatched ')' (1847571961.py, line 5)",0,,2024-02-23 18:30:46.967280
+12,TypeError,object of type 'bool' has no len(),0,,2024-02-23 18:31:04.173366
